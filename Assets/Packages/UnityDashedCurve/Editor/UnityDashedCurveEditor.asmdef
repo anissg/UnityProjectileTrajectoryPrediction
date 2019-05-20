@@ -1,0 +1,17 @@
+{
+    "name": "UnityDashedCurve.Editor",
+    "references": [
+        "GUID:1c765e92be3b3c14880ffea8e1d62b1c"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
